@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="single_player">Single Player</string>
+    <string name="two_players">Two players</string>
+    <string name="player1name">Who takes X?</string>
+    <string name="btext">GO</string>
+    <string name="playername">Who takes X ?</string>
+    <string name="player_2">Who takes O ?</string>
+</resources>
